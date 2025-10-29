@@ -1,0 +1,632 @@
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.home{
+    padding:30px;
+    background-image: linear-gradient(rgba(0, 0, 0,0.5),rgba(9, 9, 9,0.5)),url(https://img.freepik.com/premium-photo/healthy-diet-background-hd-8k-wallpaper-stock-photographic_1064748-11479.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:110vh;
+    padding-bottom:200px;
+}
+header{
+    padding:0px ;
+}
+.two h1{
+    position: sticky;
+}
+.two{
+    display: flex;
+    justify-content: space-around;
+    font-weight:500px;
+    color: white;
+    padding-top:20px;
+    height:60px;
+    position: sticky;
+    top:0px;
+    padding-bottom:50px;
+    background-color:rgb(79, 57, 19);
+
+}
+span{
+    color:rgb(167, 136, 77);
+    font-family: 600px;
+}
+ul{
+    display: flex;
+    padding-left:230px;
+}
+li{
+    list-style-type: none;
+    color: white;
+    padding-bottom:120px;
+    padding-top:9px;
+}
+header a{
+    text-decoration: none;
+    color:white;
+    padding: top 200px;
+    font-weight:400;
+    padding:25px;
+}
+.two button{
+    width:110px;
+    background-color:rgb(185, 129, 26) ;
+    border: none;
+    color: white;
+    font-weight: 600;
+    border-radius:10px;
+    height:6vh;
+    position: sticky;
+
+}
+.three h2{
+    font-size:50px;
+    text-align: center;
+    color: white;
+    padding-top:20px;
+}
+.three h1{
+    text-align: center;
+    font-weight:500;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-size: 55px;
+    color: rgb(122, 96, 47);
+    padding-top:120px;
+
+}
+#A{
+    padding-top:200px;
+}
+
+.three h1 {
+  font-family: "Edu NSW ACT Cursive", cursive;
+  font-optical-sizing: auto;
+  font-weight:350px;
+  font-style: normal;
+}
+.last{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    color: white;
+}
+#B P{
+   font-weight: 100px;
+   font-size:20px;
+   padding-top:10px;
+}
+#B img{
+    width:110px;
+    height:85px;
+    border-radius:60px;
+    margin-top:150px;
+}
+#B h1{
+    font-size:14px;
+    color: rgb(182, 178, 178);
+    padding-bottom:50px;
+}
+
+
+
+
+
+  
+.second-home{
+    padding:30px 90px;
+    gap: 50px;
+}
+
+.second-page{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding-top:90px;
+}
+  .second-page img{
+    width:250px;
+    height:73vh;
+}
+  .page{
+    padding-top:10px;
+    max-width: 450px;
+  }
+  .page h1{
+    font-size:125px;
+    font-family: "Tangerine", cursive;
+    font-weight: 700;
+    font-style: normal;
+    color: rgb(155, 131, 88);
+    padding-top:0px;
+}
+.page h2{
+    font-size:45px;
+    font-weight:300px;
+}
+  .page p{
+    gap:30px;
+   padding-top: 50px;
+   line-height:30px;
+   word-spacing:7px
+}
+  #bh{
+    padding-bottom:50px;
+  }
+  
+  #hb{
+    padding-top:50px;
+  }
+  #ex{
+    font-size:35px;
+    color: rgb(198, 161, 91);
+  }
+.page2{
+    display: flex;
+    justify-content: center;
+    gap:90px;
+    align-items: center;
+    max-width:1000px;
+    margin: auto;
+    padding-bottom:50px;
+    padding-top:60px;
+}
+.page2 h1{
+    font-size:40px;
+    color: rgb(160, 126, 64);
+}
+
+
+
+
+.third-page {
+    padding:50px;
+    text-align: center;
+    background-image: url(https://tse2.mm.bing.net/th/id/OIP.38eE6cQfShw5U-lGbkcMCgHaEo?pid=Api&P=0&h=180);
+    background-position:center;
+    background-repeat: no-repeat;
+    margin-bottom:100px;
+    background-size: cover;
+
+}
+ 
+.page4{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    flex-wrap: nowrap;
+    
+}
+
+#five h1{
+  font-family: "Lavishly Yours", cursive;
+  font-weight:400;
+  font-style: normal;
+  font-size:150px;
+  color: rgb(182, 147, 83);
+
+}
+#five h2{   
+  font-family: "Alfa Slab One", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size:50px ;
+  padding-bottom:100px;
+
+}
+.page4 p{
+    line-height:30px;
+    width:250px;
+
+}
+.page4 i{
+    font-size:3rem;
+    color: rgb(176, 148, 96);
+}
+
+
+
+
+#one h1{
+  font-family: "Lavishly Yours", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size:90px;
+  color: rgb(160, 129, 71);
+  font-weight:60px;
+}
+#one h2{
+     font-size:35px;
+}
+
+.fourth-page{
+    justify-content: center;
+    padding: 50px 280px;
+    text-align: center;
+}
+.phase1{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 50px;
+}
+.phase2{
+    display: flex;
+    justify-content: space-around;
+}
+.phase3{
+    display: flex;
+    justify-content: space-around;
+}
+
+.phase2 img{
+    height:199px;
+    padding-right:20px;
+}
+.phase0 button{
+    height:45px;
+    background-color:rgb(202, 174, 122);
+    border: none;
+    border-radius:15px;
+    width:100px;
+
+}
+.phase0 h1{
+    font-size:20px;
+    padding-bottom:40px;
+    padding-top:25px;
+
+}
+.phase0 p{
+    color: rgb(110, 106, 106);
+}
+
+
+
+
+
+.fifth-home{
+    padding:140px 100px;
+    margin-bottom:100px;
+}
+.fifth-phase{
+    display:flex;
+    justify-content:space-evenly;
+    height:300px;
+    border-radius:20px;
+}
+#ten{
+  text-align: center;
+  padding-bottom:70px; 
+  font-family: "Tangerine", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size:45px;
+  color: rgb(197, 162, 97);
+}
+.fifth-phase img{
+    height:300px;
+    border-radius:20px;
+}
+.fifth-phase h1{
+    font-size:25px;
+    padding-top:20px;
+}
+.fifth-phase h2{
+    font-size:15px;
+    font-weight:20px;
+    color: grey;
+    padding-bottom:45px;
+
+}
+.fifth-phase i{
+    color: rgb(207, 179, 128);
+}
+
+
+.sixth-home{
+    padding:40px 50px;
+    padding-bottom:70px;
+    background-image:linear-gradient(rgba(0, 0, 0,0.5),rgba(9, 9, 9,0.5)), url(https://png.pngtree.com/thumb_back/fw800/background/20240731/pngtree-tasty-and-healthy-food-for-the-whole-family-image_16120024.jpg);
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    padding-bottom:40px;
+
+}
+.sixth-page{
+    border: 2px solid black;
+    width: fit-content;
+    margin: 20vh 40vw;
+    padding:30px;
+    border-radius: 10px 10px 10px 10px;
+    padding-left: 60px;
+    background-color:white;
+}
+.hi{
+    width: 400px;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    text-align:center;
+    font-weight:60px;
+}
+.hello{
+    width: 400px;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    text-align:center;
+    color: white;
+}
+.sixth-page h1{
+    text-align: center;
+    padding-bottom:20px;
+    font-family: "Mystery Quest", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    color:rgb(188, 153, 89);
+}
+.mee button{
+    align-content: center;
+     width:380px;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    padding-left:20px;
+    background-color: rgb(166, 136, 79);
+    border: none;
+
+}
+
+.u{
+    width:370px;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    text-align:center;
+}
+
+
+/* ============================= */
+/* 📱 Small Devices (Mobile <768px) */
+/* ============================= */
+@media (max-width: 768px) {
+
+  /* --- General Layout --- */
+  body {
+    font-size: 14px;
+    overflow-x: hidden;
+  }
+
+  .two {
+    flex-direction: column;
+    align-items: center;
+    height: auto;
+    text-align: center;
+  }
+
+  .two h1 {
+    font-size: 28px;
+    margin-bottom: 10px;
+  }
+
+  nav ul {
+    flex-direction: column;
+    padding: 0;
+  }
+
+  nav li {
+    padding: 10px 0;
+  }
+
+  .two button {
+    margin-top: 10px;
+    width: 150px;
+  }
+
+  /* --- Hero Section --- */
+  .home {
+    height: auto;
+    padding: 20px;
+  }
+
+  .three h1 {
+    font-size: 40px;
+    padding-top: 80px;
+  }
+
+  .three h2 {
+    font-size: 24px;
+  }
+
+  .last {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  #B {
+    margin-bottom: 30px;
+  }
+
+  #B img {
+    width: 140px;
+    height: 110px;
+  }
+
+  /* --- About Section --- */
+  .second-page {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .second-page img {
+    width: 90%;
+    height: auto;
+  }
+
+  .page {
+    text-align: center;
+    padding: 10px;
+  }
+
+  .page2 {
+    flex-direction: column;
+    gap: 30px;
+  }
+
+  /* --- Services Section --- */
+  .page4 {
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+  }
+
+  #five h1 {
+    font-size: 80px;
+  }
+
+  #five h2 {
+    font-size: 30px;
+  }
+
+  /* --- Menu Section --- */
+  .fourth-page {
+    padding: 20px;
+  }
+
+  .phase1, .phase2, .phase3 {
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+  }
+
+  .phase0 img {
+    width: 90%;
+    height: auto;
+  }
+
+  .phase0 button {
+    width: 150px;
+    height: 40px;
+  }
+
+  /* --- Chef Section --- */
+  .fifth-home {
+    padding: 60px 20px;
+  }
+
+  .fifth-phase {
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+  }
+
+  .fifth-phase img {
+    width: 80%;
+    height: auto;
+  }
+
+  /* --- Reservation Section --- */
+  .sixth-page {
+    width: 90%;
+    margin: 5vh auto;
+    padding: 20px;
+  }
+
+  .hi, .hello, .u, .mee button {
+    width: 100%;
+  }
+
+  .sixth-page h1 {
+    font-size: 20px;
+  }
+   .fifth-home {
+    padding: 40px 15px;
+    margin-bottom: 60px;
+  }
+
+  #ten {
+    font-size: 32px;
+    padding-bottom: 30px;
+  }
+
+  .fifth-phase {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    height: auto;
+  }
+
+  .fifth-phase div {
+    text-align: center;
+  }
+
+  .fifth-phase img {
+    width: 80%;
+    height: auto;
+    border-radius: 15px;
+  }
+
+  .fifth-phase h1 {
+    font-size: 22px;
+    padding-top: 10px;
+  }
+
+  .fifth-phase h2 {
+    font-size: 14px;
+    padding-bottom: 20px;
+  }
+
+  /* --- Book a Table (Reservation Section) --- */
+  .sixth-home {
+    padding: 20px 15px;
+    background-size: cover;
+  }
+
+  .sixth-page {
+    width: 90%;
+    margin: 5vh auto;
+    padding: 20px 15px;
+    border-radius: 10px;
+    text-align: center;
+  }
+
+  .sixth-page h1 {
+    font-size: 22px;
+    line-height: 1.3;
+  }
+
+  .hi,
+  .hello,
+  .u,
+  .mee button {
+    width: 100%;
+    padding: 12px;
+    font-size: 14px;
+  }
+
+  .mee button {
+    margin-top: 15px;
+    background-color: rgb(166, 136, 79);
+    color: white;
+    border: none;
+    border-radius: 8px;
+  }
+
+  /* prevent sections from sticking together */
+  .fifth-home,
+  .sixth-home {
+    margin-bottom: 60px;
+  }
+}
+
