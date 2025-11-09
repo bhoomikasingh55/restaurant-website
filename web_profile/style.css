@@ -1,0 +1,70 @@
+.vintage-bg {
+    background: url('https://www.pixelstalk.net/wp-content/uploads/2016/06/Vintage-Floral-Wallpaper-HD-For-Desktop.jpg') no-repeat center center/cover;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+    font-family: 'Crimson Pro', serif;
+}
+
+.profile-card {
+    background: rgba(255, 248, 238, 0.9);
+    border: 2px solid #b59f7b;
+    border-radius: 20px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.3);
+    width: 320px;
+    padding: 50px 20px;
+    text-align: center;
+    backdrop-filter: blur(2px);
+    transition: transform 0.5s ease, box-shadow 0.3s ease;
+}
+
+.profile-card:hover {
+    transform: scale(1.03);
+    box-shadow: 0 12px 30px rgba(0,0,0,0.4);
+}
+
+.profile-image img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    border: 3px solid #b59f7b;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+    margin-bottom: 15px;
+}
+
+.name {
+    font-family: 'Marck Script', cursive;
+    font-size: 2em;
+    color: #4a3f35;
+    margin-bottom: 5px;
+}
+
+.title {
+    color: #6b5846;
+    font-weight: 600;
+    margin-bottom: 15px;
+    font-size: 1.1em;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.bio {
+    color: #5c4d42;
+    font-size: 0.95em;
+    line-height: 1.5em;
+    padding: 0 10px;
+    margin-bottom: 20px;
+}
+
+.social-icons a {
+    color: #4a3f35;
+    font-size: 1.4em;
+    margin: 0 10px;
+    transition: color 0.3s ease;
+}
+
+.social-icons a:hover {
+    color: #b59f7b;
+}
